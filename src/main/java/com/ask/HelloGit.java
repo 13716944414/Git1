@@ -9,5 +9,6 @@ package com.ask;
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("local create file ");
+        System.out.println("github update 01");
     }
 }
